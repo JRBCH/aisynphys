@@ -1,0 +1,17 @@
+PyQt5
+pip
+h5py
+pillow
+psycopg2-binary
+sqlalchemy
+matplotlib
+pandas
+scipy
+pyyaml
+numpy
+scikit-image
+scikit-learn
+statsmodels
+lmfit
+git+https://github.com/pyqtgraph/pyqtgraph
+git+https://github.com/alleninstitute/neuroanalysis
