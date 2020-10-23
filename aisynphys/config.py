@@ -17,8 +17,8 @@ cache_path = os.path.join(os.path.expanduser('~'), 'ai_synphys_cache')
 # For postgres
 #    synphys_db_host = "postgresql://user:password@hostname"
 #    synphys_db = "database_name"
-synphys_db_host = None
-synphys_db = None
+synphys_db_host = "sqlite:///"
+synphys_db = "/tungstenfs/scratch/gzenke/rossjuli/datasets/database/synphys_r1.0_2019-08-29_full.sqlite"
 
 
 # utility config, not meant for external use
